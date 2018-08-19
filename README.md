@@ -20,7 +20,7 @@ Technology Used:
 	* CSS Grid
 
 These are some tools that helped me build this landing page:
-* [This was used for some of the mockups](https://smartmockups.com/?status=accepted&expires=1538163591&seller=19214&affiliate=34221&link=783&p_tok=a3c1a0fd-637b-4399-9feb-d73f5c38f995) 
+* [Great tool for mockups](https://smartmockups.com/) 
 * [The responsive menu is by Ash Neilson](https://codepen.io/neilso/pen/ziwgI)
 * [Gift Card Mockup](https://free-psd-templates.com/free-game-youtube-channel-banner/)
 * [All Stock images](https://www.pexels.com/)
