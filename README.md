@@ -1,5 +1,6 @@
 # This is a Landing Page Demo
----
+
+
 ## Summary
 This is a simple static landing page that was built without using any frameworks.
 This project was inspired by some of the designs on the [Apple iTunes website](https://www.apple.com/itunes/). It isn’t a copy, but there are some obvious similarities. 
@@ -7,7 +8,6 @@ This project was inspired by some of the designs on the [Apple iTunes website](h
 The purpose of this landing page is to demonstrate some of my skills as a web developer. 
 If you would like to see what else I can do, check out [my portfolio](https://michaelfrieze.github.io/). 
 
----
 
 ## Details
 The page is hosted on GitHub pages
