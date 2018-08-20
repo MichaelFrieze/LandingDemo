@@ -1,0 +1,20 @@
+{
+  "name": "landingdemo",
+  "version": "1.0.0",
+  "description": "Simple static landing page.",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "deploy-help": "gh-pages --help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelFrieze/LandingDemo.git"
+  },
+  "author": "Michael Frieze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MichaelFrieze/LandingDemo/issues"
+  },
+  "homepage": "https://github.com/MichaelFrieze/LandingDemo#readme"
+}
