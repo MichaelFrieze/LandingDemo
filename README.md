@@ -1,6 +1,7 @@
 # This is a Landing Page Demo
 
 
+
 ## Summary
 This is a simple static landing page that was built without using any frameworks and is responsive.
 
@@ -10,8 +11,10 @@ The purpose of this landing page is to demonstrate some of my skills as a web de
 If you would like to see what else I can do, check out [my portfolio](https://michaelfrieze.github.io/). 
 
 
+
 ## Details
 The page is hosted on GitHub pages
+
 
 Technology Used:
 * HTML
@@ -19,6 +22,7 @@ Technology Used:
 	* JQuery
 * CSS
 	* CSS Grid
+
 
 These are some tools that helped me build this landing page:
 * [Great tool for mockups](https://smartmockups.com/) 
