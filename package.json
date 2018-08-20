@@ -7,11 +7,7 @@
     "deploy": "gh-pages -d dist",
     "deploy-help": "gh-pages --help"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MichaelFrieze/LandingDemo.git"
-  },
-  "homepage": "https://michaelfrieze.github.com/LandingDemo",
+  "homepage": "https://michaelfrieze.github.io/LandingDemo/",
   "author": "Michael Frieze",
   "license": "MIT",
   "dependencies": {
