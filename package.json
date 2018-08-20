@@ -11,10 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/MichaelFrieze/LandingDemo.git"
   },
+  "homepage": "https://michaelfrieze.github.com/LandingDemo",
   "author": "Michael Frieze",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/MichaelFrieze/LandingDemo/issues"
-  },
-  "homepage": "https://github.com/MichaelFrieze/LandingDemo#readme"
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
 }
